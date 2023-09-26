@@ -1,7 +1,7 @@
 # FoodPlanet
 Website to know about Various food items from different states.
 
-<img width="1440" alt="Screenshot 2023-09-26 at 9 01 45 PM" src="https://github.com/harshboghara2004/FoodPlanet/assets/104019887/333e0b79-4cfb-4acc-a365-084a7abf17b3">
+<img width="1440" alt="Screenshot 2023-09-26 at 9 01 45 PM" src="https://github.com/harshboghara2004/FoodPlanet/assets/104019887/0f70de20-dd54-4c64-ac28-53db821da7c5">
 
 Functionality to item into the cart it gives pop-up for confirmation.
 
@@ -17,7 +17,7 @@ Login is required for ordering.
 
 Cart Page to see item and increase or decrease the quantity of paricular item.
 
-<img width="1440" alt="Screenshot 2023-09-26 at 9 03 18 PM" src="https://github.com/harshboghara2004/FoodPlanet/assets/104019887/ec683399-5bdd-4562-9f5b-e9245bd5bd0f">
+<img width="1440" alt="Screenshot 2023-09-26 at 9 03 18 PM" src="https://github.com/harshboghara2004/FoodPlanet/assets/104019887/bda1b5f7-bc4f-4bfe-8905-f9e1eeed7590">
 
 Review page of your order to vefity and confirm.
 
